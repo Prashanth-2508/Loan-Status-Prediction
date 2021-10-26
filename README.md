@@ -12,3 +12,6 @@ These details are
 - Loan Amt
 - Credit History
 - others...
+
+# Model Observations:
+There is negligable difference in the test score and train score, hence our model is behaving good without overfit / underfit.
